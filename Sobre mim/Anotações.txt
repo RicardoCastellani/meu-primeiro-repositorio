@@ -1,0 +1,1 @@
+Olá meu nome é Ricardo, tenho 19 anos, estou cursando Engenharia da Computação na Impacta e essa é a minha primeira experiência com Git/GitHub
